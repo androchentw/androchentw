@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Andro
 
-- 🔭 I’m currently working on Data Engineering and Observability
+- 🔭 I’m currently working on Data Engineering, CI/CD and Observability
 - 🌱 I’m currently learning SRE 
 - 📫 Check out my [blog](https://blog.androchen.tw/) for more fun posts
 
