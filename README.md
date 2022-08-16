@@ -10,15 +10,23 @@
 </a>
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=androchentw&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androchentw&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=androchentw&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androchentw&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=androchentw&theme=github)
+
+
+
 <!--
 **androchentw/androchentw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
