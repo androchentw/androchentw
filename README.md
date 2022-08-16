@@ -6,15 +6,12 @@
 
 <a href="https://github.com/androchentw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androchentw&show_icons=true&theme=tokyonight&count_private=true" alt="androchentw's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androchentw&theme=gotham&layout=compact" alt="androchentw's github top languages" />
 </a>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=androchentw&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androchentw&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=androchentw&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androchentw&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=androchentw&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=androchentw&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androchentw&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=androchentw&theme=solarized_dark&utcOffset=8)
 
 
 
