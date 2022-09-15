@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data Engineering, CI/CD and Observability
 - 🌱 I’m currently learning SRE 
-- 📫 Check out my [blog](https://blog.androchen.tw/) for more fun posts
+- ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
 
 <a href="https://github.com/androchentw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androchentw&show_icons=true&theme=tokyonight&count_private=true" alt="androchentw's github stats" />
