@@ -16,7 +16,7 @@
 * ∞ 2021 ~ 2022 (2) **Data Platform Architect** & DevOps Engineer
 * 🖥 2017 ~ 2022 (6) **Splunk** Administrator and Developer for Chip Design projects
 * 📱 2013 ~ 2017 (5) **Android** Developer for B2B, B2B2C (Carpo, FindLife) and IoT (2015 - MTK) (MCS, EB, GS) projects
-* 🌐 2012 ~ 2013 (2) Startup, Web Developer (5945) and UX Consultant (beBit)
+* 🌐 2012 ~ 2013 (2) **Startup**, Web Developer (5945) and **UX Consultant** (beBit)
 
 
 #### Trophy
