@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning **Agile and SRE**.
 * ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
 * 📫 How to reach me: androchentw@gmail.com
-* ⚡ Fun fact: 🚀 **Practical idealist **
+* ⚡ Fun fact: 🚀 **Practical idealist**
 * Self introduction
   * Chun-An is an experienced Software Engineer with 4+ years of Data Engineering and Ops Monitoring, plus five years of Android Development. 
   * I am currently working as DevOps Engineer and Architect to design and implement the architecture of the DataOps platform.
