@@ -1,17 +1,36 @@
 ### Hi there 👋 This is Andro
 
-- 🔭 I’m currently working on Data Engineering, CI/CD and Observability
-- 🌱 I’m currently learning SRE 
+- 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
+- 🌱 I’m currently learning **Agile and SRE**.
 - ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
+- ⚡ Fun fact: 🚀 Practical idealist 
 
 <a href="https://github.com/androchentw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androchentw&show_icons=true&theme=tokyonight&count_private=true" alt="androchentw's github stats" />
 </a>
 
-<!-- GitHub Profile Summary Cards -->
+### Job History
+
+* Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
+* 2021 ~ 2022 (2) **Data Platform Architect** & DevOps Engineer
+* 2017 ~ 2022 (6) **Splunk** Administrator and Developer for Chip Design projects
+* 2013 ~ 2017 (5) **Android** Developer for B2B, B2B2C (Carpo, FindLife) and IoT (2015 - MTK) (MCS, EB, GS) projects
+* 2012 ~ 2013 (2) Startup, Web Developer (5945) and UX Consultant (beBit)
+
+
+#### Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=mika-f&no-frame=true&row=1&column=6" />
+
+
+#### Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=androchentw&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androchentw&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=androchentw&theme=solarized_dark&utcOffset=8)
+
+
+#### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
