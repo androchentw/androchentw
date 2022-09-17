@@ -1,9 +1,14 @@
 ### Hi there 👋 This is Andro
 
-- 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
-- 🌱 I’m currently learning **Agile and SRE**.
-- ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
-- ⚡ Fun fact: 🚀 Practical idealist 
+* 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
+* 🌱 I’m currently learning **Agile and SRE**.
+* ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
+* ⚡ Fun fact: 🚀 **Practical idealist **
+* Self introduction
+  * Chun-An is an experienced Software Engineer with 4+ years of Data Engineering and Ops Monitoring, plus five years of Android Development. 
+  * I am currently working as DevOps Engineer and Architect to design and implement the architecture of the DataOps platform.
+  * My career objective is to create value for users, build user-friendly products that can satisfy people, and fulfill their imagination of the future.
+  * 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
 
 <a href="https://github.com/androchentw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androchentw&show_icons=true&theme=tokyonight&count_private=true" alt="androchentw's github stats" />
@@ -11,11 +16,10 @@
 
 ### Job History
 
-* Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
-* 2021 ~ 2022 (2) **Data Platform Architect** & DevOps Engineer
-* 2017 ~ 2022 (6) **Splunk** Administrator and Developer for Chip Design projects
-* 2013 ~ 2017 (5) **Android** Developer for B2B, B2B2C (Carpo, FindLife) and IoT (2015 - MTK) (MCS, EB, GS) projects
-* 2012 ~ 2013 (2) Startup, Web Developer (5945) and UX Consultant (beBit)
+* ∞ 2021 ~ 2022 (2) **Data Platform Architect** & DevOps Engineer
+* 🖥 2017 ~ 2022 (6) **Splunk** Administrator and Developer for Chip Design projects
+* 📱 2013 ~ 2017 (5) **Android** Developer for B2B, B2B2C (Carpo, FindLife) and IoT (2015 - MTK) (MCS, EB, GS) projects
+* 🌐 2012 ~ 2013 (2) Startup, Web Developer (5945) and UX Consultant (beBit)
 
 
 #### Trophy
