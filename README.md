@@ -2,7 +2,7 @@
 
 * 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
 * 🌱 I’m currently learning **Agile and SRE**.
-* ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
+* ✍️ Check out my [blog - ProgramMur](https://blog.androchen.tw/) for more fun posts
 * 📫 How to reach me: androchentw@gmail.com
 * ⚡ Fun fact: 🚀 **Practical idealist**
 * Self introduction
