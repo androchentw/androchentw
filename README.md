@@ -3,16 +3,13 @@
 * 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
 * 🌱 I’m currently learning **Agile and SRE**.
 * ✍️ Check out my [blog](https://blog.androchen.tw/) for more fun posts
+* 📫 How to reach me: androchentw@gmail.com
 * ⚡ Fun fact: 🚀 **Practical idealist **
 * Self introduction
   * Chun-An is an experienced Software Engineer with 4+ years of Data Engineering and Ops Monitoring, plus five years of Android Development. 
   * I am currently working as DevOps Engineer and Architect to design and implement the architecture of the DataOps platform.
   * My career objective is to create value for users, build user-friendly products that can satisfy people, and fulfill their imagination of the future.
   * 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
-
-<a href="https://github.com/androchentw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androchentw&show_icons=true&theme=tokyonight&count_private=true" alt="androchentw's github stats" />
-</a>
 
 ### Job History
 
@@ -24,10 +21,14 @@
 
 #### Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=mika-f&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=androchentw&theme=nord&no-frame=true&row=1&column=6" />
 
 
 #### Stats
+
+<a href="https://github.com/androchentw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androchentw&show_icons=true&theme=tokyonight&count_private=true" alt="androchentw's github stats" />
+</a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=androchentw&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androchentw&theme=solarized_dark)
