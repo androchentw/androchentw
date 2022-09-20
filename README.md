@@ -37,6 +37,8 @@
 
 #### 📊 Weekly development breakdown
 
+[wakatime](https://wakatime.com/dashboard)
+
 <!--START_SECTION:waka-->
 
 ```text
