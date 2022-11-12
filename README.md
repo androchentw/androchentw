@@ -19,7 +19,7 @@
 * 🌐 2012 ~ 2013 (2) **Startup**, Web Developer (5945) and **UX Consultant** (beBit)
 
 
-### Technical Presentations
+### Public Presentations
 
 | Date | Topic | Location | Notes | Slide |
 | ---- | ----- | -------- | ----- | ----- |
