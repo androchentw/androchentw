@@ -47,6 +47,13 @@ Other      18 hrs 35 mins  █████████████████�
 
 <!--END_SECTION:waka-->
 
+### Presentations
+
+| Date | Topic | Location | Notes | Slide |
+| ---- | ----- | -------- | ----- | ----- |
+| yyyy-mm-dd | t | l | NA | url |
+
+
 <!--
 **androchentw/androchentw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
