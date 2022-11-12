@@ -47,9 +47,7 @@ Other      18 hrs 35 mins  █████████████████�
 
 <!--END_SECTION:waka-->
 
-### Presentations
-
-* https://speakerdeck.com/androchentw
+### Technical Presentations
 
 | Date | Topic | Location | Notes | Slide |
 | ---- | ----- | -------- | ----- | ----- |
