@@ -11,7 +11,7 @@
   * My career objective is to create value for users, build user-friendly products that can satisfy people, and fulfill their imagination of the future.
   * 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
 
-### Job History
+### Work History
 
 * ∞ 2021 ~ 2022 (2) **Data Platform Architect** & DevOps Engineer
 * 🖥 2017 ~ 2022 (6) **Splunk** Administrator and Developer for Chip Design projects
