@@ -33,7 +33,7 @@
 [What I've Learned From Startups]: https://speakerdeck.com/androchentw/what-ive-learned-from-startups
 
 
-#### Stats
+### Stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=androchentw&theme=nord&no-frame=true&row=1&column=6" />
 
