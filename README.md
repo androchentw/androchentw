@@ -33,6 +33,15 @@
 [What I've Learned From Startups]: https://speakerdeck.com/androchentw/what-ive-learned-from-startups
 
 
+### Volunteers
+
+| Date | Event | Location | Notes | 
+| ---- | ----- | -------- | ----- | 
+| 2022-12-03 | [GDG DevFest Taipei 2022] | NTU | Maneuver Group | 
+| yyyy-mm-dd | t | l | NA | 
+
+[GDG DevFest Taipei 2022]: https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
+
 ### Stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=androchentw&theme=nord&no-frame=true&row=1&column=6" />
