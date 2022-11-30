@@ -26,7 +26,6 @@
 | 2021-02-17 | Splunk Cafe - Turn Coffee Into Data | Online | Splunk + Android + Coffee. Demo | [2021-02-17-splunk-cafe] |
 | 2014-04-30 | When Andro Meets Android - Android Taipei | Android Taipei | Startup (Carpo) + Android | [When Andro Meets Android - Android Taipei] |
 | 2014-03-26 | What I've Learned From Startups | NTUEE | Startup + Thought sharing | [What I've Learned From Startups] |
-| yyyy-mm-dd | t | l | NA | url |
 
 [2021-02-17-splunk-cafe]: https://speakerdeck.com/androchentw/2021-02-17-splunk-cafe
 [When Andro Meets Android - Android Taipei]: https://speakerdeck.com/androchentw/when-andro-meets-android-android-taipei
@@ -38,7 +37,6 @@
 | Date | Event | Location | Notes | 
 | ---- | ----- | -------- | ----- | 
 | 2022-12-03 | [GDG DevFest Taipei 2022] | NTU | Maneuver Group | 
-| yyyy-mm-dd | t | l | NA | 
 
 [GDG DevFest Taipei 2022]: https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
 
