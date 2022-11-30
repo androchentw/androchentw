@@ -23,6 +23,7 @@
 
 | Date | Topic | Location | Notes | Slide |
 | ---- | ----- | -------- | ----- | ----- |
+| 2023-mm-dd | 🙋 Looking forward to Agile/DevOps/SRE related event invitation | - | - | - |
 | 2021-02-17 | Splunk Cafe - Turn Coffee Into Data | Online | Splunk + Android + Coffee. Demo | [2021-02-17-splunk-cafe] |
 | 2014-04-30 | When Andro Meets Android - Android Taipei | Android Taipei | Startup (Carpo) + Android | [When Andro Meets Android - Android Taipei] |
 | 2014-03-26 | What I've Learned From Startups | NTUEE | Startup + Thought sharing | [What I've Learned From Startups] |
@@ -36,6 +37,7 @@
 
 | Date | Event | Location | Notes | 
 | ---- | ----- | -------- | ----- | 
+| 2023-mm-dd | 🙋 Looking forward to Agile/DevOps/SRE related event invitation | - | - | 
 | 2022-12-03 | [GDG DevFest Taipei 2022] | NTU | Maneuver Group | 
 
 [GDG DevFest Taipei 2022]: https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
