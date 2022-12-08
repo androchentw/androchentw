@@ -32,6 +32,11 @@
 [When Andro Meets Android - Android Taipei]: https://speakerdeck.com/androchentw/when-andro-meets-android-android-taipei
 [What I've Learned From Startups]: https://speakerdeck.com/androchentw/what-ive-learned-from-startups
 
+* Interested Topics
+  * ODD - Observability Driven Development
+  * DORA Metrics
+  * DevOps Engineer Journey
+
 
 ### Volunteers
 
