@@ -43,9 +43,9 @@
 | Date | Event | Location | Notes | 
 | ---- | ----- | -------- | ----- | 
 | 2023-mm-dd | 🙋 Looking forward to Agile/DevOps/SRE related event invitation | - | - | 
-| 2022-12-03 | [GDG DevFest Taipei 2022] | NTU | Maneuver Group | 
+| 2022-12-03 | [GDG DevFest 2022 Taipei 社群志工與議程心得] | NTU | Maneuver Group | 
 
-[GDG DevFest Taipei 2022]: https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
+[GDG DevFest 2022 Taipei 社群志工與議程心得]: https://blog.androchen.tw/gdg-devfest-2022-taipei/
 
 ### Stats
 
