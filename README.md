@@ -4,9 +4,8 @@
   * [🇹🇼 電子報](https://programmuren.substack.com/)
   * [🇺🇸 Newsletter](https://programmuren.substack.com/)
   * [🇯🇵 ニュースレター](https://programmurja.substack.com/)
-* 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**
-* 🌱 I’m currently learning **Agile and SRE**.
-* 📫 How to reach me: androchentw@gmail.com
+* I’m currently working on **Agile, DevOps, SRE, CI/CD, Observability and Data Engineering**
+* How to reach me: androchentw@gmail.com
 * ⚡ Fun fact: 🚀 **Practical idealist**
 * Self introduction
   * Chun-An is an experienced Software Engineer with 4+ years of Data Engineering and Ops Monitoring, plus five years of Android Development. 
@@ -14,11 +13,13 @@
   * My career objective is to create value for users, build user-friendly products that can satisfy people, and fulfill their imagination of the future.
   * 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
 
+
 ### Sponsor
 
 If you think my articles have brought value to you, subscribing is the greatest support for me, and I would also be very happy to receive your sponsorship!
 
 <a href="https://www.buymeacoffee.com/androchentw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 ### Work History
 
