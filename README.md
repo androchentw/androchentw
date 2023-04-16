@@ -1,8 +1,11 @@
 ### Hi there 👋 This is Andro
 
-* 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**, 
+* ✍️ Check out my [blog - ProgramMur](https://blog.androchen.tw/) for more fun posts, or subscribe to get latest updates:
+ * [🇹🇼 電子報](https://programmuren.substack.com/)
+ * [🇺🇸 Newsletter](https://programmuren.substack.com/)
+ * [🇯🇵 ニュースレター](https://programmurja.substack.com/)
+* 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**
 * 🌱 I’m currently learning **Agile and SRE**.
-* ✍️ Check out my [blog - ProgramMur](https://blog.androchen.tw/) for more fun posts
 * 📫 How to reach me: androchentw@gmail.com
 * ⚡ Fun fact: 🚀 **Practical idealist**
 * Self introduction
@@ -11,13 +14,9 @@
   * My career objective is to create value for users, build user-friendly products that can satisfy people, and fulfill their imagination of the future.
   * 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
 
-## Sponsor
+### Sponsor
 
 If you think my articles have brought value to you, subscribing is the greatest support for me, and I would also be very happy to receive your sponsorship!
-
-* [🇹🇼 電子報](https://programmuren.substack.com/)
-* [🇺🇸 Newsletter](https://programmuren.substack.com/)
-* [🇯🇵 ニュースレター](https://programmurja.substack.com/)
 
 <a href="https://www.buymeacoffee.com/androchentw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
