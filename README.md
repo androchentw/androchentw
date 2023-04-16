@@ -1,9 +1,9 @@
 ### Hi there 👋 This is Andro
 
 * ✍️ Check out my [blog - ProgramMur](https://blog.androchen.tw/) for more fun posts, or subscribe to get latest updates:
- * [🇹🇼 電子報](https://programmuren.substack.com/)
- * [🇺🇸 Newsletter](https://programmuren.substack.com/)
- * [🇯🇵 ニュースレター](https://programmurja.substack.com/)
+  * [🇹🇼 電子報](https://programmuren.substack.com/)
+  * [🇺🇸 Newsletter](https://programmuren.substack.com/)
+  * [🇯🇵 ニュースレター](https://programmurja.substack.com/)
 * 🔭 I’m currently working on **DevOps, CI/CD, Observability and Data Engineering**
 * 🌱 I’m currently learning **Agile and SRE**.
 * 📫 How to reach me: androchentw@gmail.com
