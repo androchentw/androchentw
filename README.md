@@ -77,7 +77,7 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 9 mins    █████████████████████████   100.00 %
+Other   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
