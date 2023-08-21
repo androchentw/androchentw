@@ -77,7 +77,7 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr            █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
