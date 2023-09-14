@@ -77,8 +77,8 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 hrs 47 mins   ███████████████████████░░   91.78 %
-YAML    20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Other       1 hr 43 mins    ██████████████████████▒░░   88.91 %
+Terraform   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
 ```
 
 <!--END_SECTION:waka-->
