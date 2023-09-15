@@ -77,8 +77,8 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other       1 hr 43 mins    ██████████████████████▒░░   88.91 %
-Terraform   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Other       1 hr 19 mins    █████████████████████▓░░░   86.02 %
+Terraform   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
 ```
 
 <!--END_SECTION:waka-->
