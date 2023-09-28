@@ -77,11 +77,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other            2 hrs 37 mins   █████████████░░░░░░░░░░░░   52.17 %
-YAML             1 hr 52 mins    █████████▒░░░░░░░░░░░░░░░   37.23 %
-Bash             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Prolog           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Other            2 hrs 27 mins   █████████████████████▓░░░   86.37 %
+YAML             20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TSQL             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
