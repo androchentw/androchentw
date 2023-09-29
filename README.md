@@ -77,11 +77,8 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other            2 hrs 27 mins   █████████████████████▓░░░   86.37 %
-YAML             20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-TSQL             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other   1 hr            ███████████████▒░░░░░░░░░   61.39 %
+Text    37 mins         █████████▓░░░░░░░░░░░░░░░   38.61 %
 ```
 
 <!--END_SECTION:waka-->
