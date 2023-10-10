@@ -46,6 +46,8 @@
 </table>
 <br>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6525010153c920241bc366f7?variant=dark)](https://roadmap.sh)
+
 ### Sponsor
 
 If you think my articles have brought value to you, subscribing is the greatest support for me, and I would also be very happy to receive your sponsorship!
