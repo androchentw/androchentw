@@ -13,6 +13,29 @@
   * My career objective is to create value for users, build user-friendly products that can satisfy people, and fulfill their imagination of the future.
   * 👨‍💻 Check out my [LinkedIn profile](https://www.linkedin.com/in/androchen/) for details
 
+### Skills
+
+<table>
+  <tr>
+    <td>Language</td>
+    <td>
+     <img src="https://skillicons.dev/icons?i=java,py,bash" />
+    </td>
+  </tr>
+  <tr>
+    <td>Platform</td>
+    <td>
+     <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp" />
+    </td>
+  </tr> 
+  <tr>
+    <td>Observability</td>
+    <td>
+     <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+    </td>
+  </tr>
+</table>
+<br>
 
 ### Sponsor
 
@@ -21,7 +44,7 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <a href="https://www.buymeacoffee.com/androchentw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-### Work History
+### Experience
 
 * ∞ 2021 ~ 2023 (3) **Data Platform Architect** & DevOps Engineer
 * 🖥 2017 ~ 2022 (6) **Splunk** Administrator and Developer for Chip Design projects
@@ -43,7 +66,7 @@ If you think my articles have brought value to you, subscribing is the greatest 
 [What I've Learned From Startups]: https://speakerdeck.com/androchentw/what-ive-learned-from-startups
 
 * Interested Topics
-  * ODD - Observability Driven Development
+  * ODD - Observability-Driven Development
   * DORA Metrics
   * DevOps Engineer Journey
 
