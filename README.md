@@ -111,11 +111,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 22 mins   █████████████████████▒░░░   85.53 %
-YAML       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Assembly   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Ezhil      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other      2 hrs 11 mins   ████████████████████▒░░░░   81.18 %
+YAML       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+JSON       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Assembly   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
