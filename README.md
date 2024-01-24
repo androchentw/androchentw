@@ -111,8 +111,8 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other      6 hrs 58 mins   ██████████████████████░░░   87.56 %
-Markdown   59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Other      5 hrs 58 mins   ████████████████████░░░░░   79.91 %
+Markdown   1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 %
 ```
 
 <!--END_SECTION:waka-->
