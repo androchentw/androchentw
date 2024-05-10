@@ -111,8 +111,9 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 15 mins   ██████████████████████▓░░   91.32 %
-YAML    12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Other   2 hrs 13 mins   █████████████████████░░░░   84.03 %
+YAML    12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+JSON    12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
 ```
 
 <!--END_SECTION:waka-->
