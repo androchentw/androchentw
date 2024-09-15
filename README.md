@@ -111,11 +111,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other        11 hrs 18 mins  ████████████▒░░░░░░░░░░░░   49.33 %
-Bash         6 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
-YAML         4 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other        20 hrs 13 mins  ██████████████▓░░░░░░░░░░   58.12 %
+Bash         5 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+YAML         4 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Markdown     1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+HTML         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
