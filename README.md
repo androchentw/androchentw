@@ -111,11 +111,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other        10 hrs 18 mins  ████████████████▒░░░░░░░░   65.90 %
-C#           1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Python       1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Bash         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Other        11 hrs 8 mins   ███████████████▓░░░░░░░░░   62.13 %
+Python       2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+C#           1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Bash         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
