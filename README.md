@@ -19,10 +19,11 @@
   <tr>
     <td>Language</td>
     <td>
-<!--      <img src="https://skillicons.dev/icons?i=java,py,bash" /> -->
+<!--      <img src="https://skillicons.dev/icons?i=java,py,bash,c#" /> -->
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<!--      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
     </td>
   </tr>
   <tr>
@@ -41,6 +42,12 @@
      <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" />
      <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>
+     <img src="https://skillicons.dev/icons?i=unity,firebase,postgresql,redis" />
     </td>
   </tr>
 </table>
