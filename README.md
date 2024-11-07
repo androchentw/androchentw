@@ -118,11 +118,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other            9 hrs 31 mins   █████████████████░░░░░░░░   67.90 %
-C#               2 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-Markdown         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Bash             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Git Config       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Other            8 hrs 13 mins   █████████████████▒░░░░░░░   69.02 %
+C#               2 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+Markdown         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Git Config       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Bash             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
