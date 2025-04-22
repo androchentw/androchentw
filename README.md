@@ -118,11 +118,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other       4 hrs 19 mins   ██████████▒░░░░░░░░░░░░░░   41.47 %
-Terraform   2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Bash        2 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-Markdown    1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-YAML        31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Other       4 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.62 %
+Terraform   2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+Bash        2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+Markdown    1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+YAML        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
