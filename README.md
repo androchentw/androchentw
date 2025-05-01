@@ -118,11 +118,11 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other       5 hrs           ████████████████████░░░░░   80.36 %
-Terraform   1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-HCL         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other       4 hrs 57 mins   ████████████▓░░░░░░░░░░░░   51.15 %
+Terraform   4 hrs 37 mins   ████████████░░░░░░░░░░░░░   47.77 %
+HCL         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
