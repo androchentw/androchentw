@@ -118,11 +118,10 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 30 mins   ██████████████████▒░░░░░░   73.61 %
-Markdown     1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Bash         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python       6 hrs           █████████████████▓░░░░░░░   70.07 %
+Other        1 hr 36 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
+Markdown     51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
