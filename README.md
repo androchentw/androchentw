@@ -118,8 +118,8 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other      4 hrs 9 mins    ████████████████████▓░░░░   82.72 %
-Markdown   52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Other      6 hrs 9 mins    ██████████████████████░░░   87.63 %
+Markdown   52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
 YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
