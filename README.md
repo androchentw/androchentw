@@ -118,11 +118,8 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 5 mins           ███████████████░░░░░░░░░░   59.34 %
-Python     16 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-YAML       14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown   14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other    1 hr                  █████████████████████████   99.91 %
+Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
