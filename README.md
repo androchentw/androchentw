@@ -118,8 +118,7 @@ If you think my articles have brought value to you, subscribing is the greatest 
 <!--START_SECTION:waka-->
 
 ```txt
-Other    1 hr                  █████████████████████████   99.91 %
-Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other   1 hr                  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
